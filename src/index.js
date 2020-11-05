@@ -23,4 +23,20 @@
 // import './HashTable';
 
 // 导入树结构的封装及测试代码
-import './Tree';
+// import './Tree';
+
+// hashMap
+// import "./HashMap";
+
+// hashTableSeparateChaining
+// import "./hashTableSeparateChaining";
+
+// Binary tree
+// import "./Binary";
+
+// AVL tree
+// import "./avl-tree";
+
+import {baseConverter} from "./Stack/odecnumBin";
+
+console.log(baseConverter(10, 2));
